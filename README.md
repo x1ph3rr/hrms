@@ -48,13 +48,12 @@ cd hrms-python
 
 ### 2. Backend Setup
 cd server
-
-# Create virtual environment
+Create virtual environment
 python -m venv venv
 
-# Activate virtual environment
-# Windows: venv\Scripts\activate
-# Mac/Linux: source venv/bin/activate
+Activate virtual environment
+Windows: venv\Scripts\activate
+Mac/Linux: source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
@@ -67,8 +66,7 @@ python manage.py runserver
 
 ### 3. Frontend Setup
 cd client
-
-# Install dependencies
+Install dependencies
 npm install
 
 # Start Development Server
