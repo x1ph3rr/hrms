@@ -1,0 +1,13 @@
+asgiref==3.11.0
+dataclasses==0.6
+Django==6.0.1
+django-cors-headers==4.9.0
+djangorestframework==3.16.1
+djongo==1.2.31
+dnspython==2.8.0
+gunicorn==23.0.0
+packaging==25.0
+pymongo==4.16.0
+pytz==2025.2
+sqlparse==0.5.5
+whitenoise==6.11.0
